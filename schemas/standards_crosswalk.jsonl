@@ -1,0 +1,2 @@
+{"standard":"NIST AI RMF","hhI_control":"Decision Boundary","runtime_status":"ENFORCED","evidence":"telemetry/runtime_event_001.json"}
+{"standard":"ISO/IEC 42001","hhI_control":"Stop Authority","runtime_status":"ACTIVE","evidence":"stop_authority/stop_authority_trigger_001.json"}
