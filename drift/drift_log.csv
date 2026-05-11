@@ -1,0 +1,2 @@
+timestamp,drift_score,escalation,decision_boundary,outcome
+2026-05-10T19:00:00Z,72,HIGH,ENFORCED,BLOCKED

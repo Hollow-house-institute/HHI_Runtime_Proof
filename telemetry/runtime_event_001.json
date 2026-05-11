@@ -1,0 +1,1 @@
+{"event_id":"evt-001","timestamp":"2026-05-10T19:00:00Z","actor":"runtime","decision_boundary":"ENFORCED","behavioral_drift_score":72,"escalation_level":"HIGH","intervention_status":"ACTIVE","stop_authority":"AVAILABLE","action":"runtime_intervention","outcome":"blocked","runtime_source":"HHI_GOV_01"}
