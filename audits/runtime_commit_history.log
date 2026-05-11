@@ -1,0 +1,8 @@
+* adffbb7 (HEAD -> main, origin/main) Add governance export and retention continuity evidence
+* c5c2b9f Add runtime API auth and governance event bus evidence
+* 985cc44 Add runtime continuity snapshot and deployment evidence
+* bbc6436 Add standards interoperability and replay validation evidence
+* b22720e Add stop authority and continuous assurance runtime evidence
+* 5e2d1b6 Add runtime telemetry and behavioral drift evidence
+* a9fb583 Add execution-time governance runtime proof README
+* fb1ff36 Initialize HHI runtime proof evidence repository
