@@ -160,3 +160,81 @@ https://orcid.org/0009-0009-4806-1949
 
 ## HHI Ecosystem
 See: [TOP_5_HHI_REPOS.md](TOP_5_HHI_REPOS.md)
+
+---
+
+# Repository Role Within HHI Ecosystem
+
+This repository operates as the Runtime Governance Observability and Replay Evidence layer within the Hollow House Institute ecosystem.
+
+The repository focuses on:
+- runtime telemetry continuity
+- replay-capable governance evidence
+- operational observability
+- governance reconstruction
+- longitudinal accountability
+- execution-time governance visibility
+
+Canonical ecosystem architecture:
+https://github.com/Hollow-house-institute/Governance_Infrastructure_Layer
+
+Canonical role matrix:
+https://github.com/Hollow-house-institute/Governance_Infrastructure_Layer/blob/main/architecture/REPO_ROLE_MATRIX.md
+
+---
+
+# Related Repositories
+
+## Canonical Governance Core
+- Hollow_House_Standards_Library
+- HHI_GOV_01
+- Governance_Infrastructure_Layer
+
+## Runtime Governance & Observability
+- HHI_Behavioral_Drift_Monitor
+- HHI_Governance_Workflows
+- Field_Tech_Core
+
+## Audit & Behavioral Analysis
+- HHI_Audits
+- HHI_Behavioral_Governance_Audit
+- Ai_Ethics_Audit_Lab
+
+## Institutional & Executive Translation
+- HHI_Career_Runtime
+- Hollow_House_Institute_site
+- HHI_Governance_Portfolio
+
+---
+
+# Start Here
+
+1. START_HERE.md
+2. RUNTIME_WALKTHROUGH.md
+3. governance_flows/
+4. runtime_observability/
+5. runtime_telemetry/
+
+---
+
+# Canonical References
+
+Policies describe intent.
+
+Runtime behavior reveals reality.
+
+Time turns behavior into infrastructure.
+
+Behavior is the most honest data there is.
+
+Canonical Source:
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
+
+DOI:
+https://doi.org/10.5281/zenodo.20044740
+
+ORCID:
+https://orcid.org/0009-0009-4806-1949
+
+Amy Pierce Bui
+Founder, Hollow House Institute
